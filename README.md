@@ -2,7 +2,7 @@
 
 > O Trem que monitora e controla qualquer ambiente — na internet e no celular.
 
-Este repositório reúne **guias e prompts abertos** da TREM para você usar em qualquer assistente de IA e montar o seu sistema de monitoramento e automação com mais facilidade.
+Este repositório reúne **guias de hardware, lista de peças, passo a passo de montagem e prompts abertos** da TREM para você montar seu próprio sistema de monitoramento e automação (modelo BYOD — *Bring Your Own Device*).
 
 - 🌐 Site: <https://trem.app.br>
 - 📸 Instagram: [@trem.app.br](https://www.instagram.com/trem.app.br)
@@ -12,20 +12,20 @@ Este repositório reúne **guias e prompts abertos** da TREM para você usar em 
 
 | Pasta | Conteúdo | Status |
 |-------|----------|--------|
-| [`prompts/`](prompts/) | Prompts prontos para pedir ajuda à IA (montagem, regras, diagnóstico) | 🚧 em preparação |
+| [`guias/`](guias/) | Apresentação das peças (ESP32, sensores, atuadores), **Kit Básico** e **passo a passo de montagem** | ✅ disponível |
+| [`prompts/`](prompts/) | Prompts prontos para pedir ajuda à IA (montagem, regras, diagnóstico) | 🚧 em construção |
 
-> Este repositório **não contém código** do produto — apenas texto (guias e prompts).
+> Este repositório **não contém código** do produto — apenas documentação aberta de hardware e prompts.
 
-## Como usar
+## Por onde começar
 
-1. Abra o prompt desejado em [`prompts/`](prompts/).
-2. Copie o texto e cole no assistente de IA de sua preferência.
-3. Preencha os campos entre `[colchetes]` com os dados do seu projeto.
-4. **Confira sempre as ligações elétricas e a segurança antes de energizar qualquer circuito.** As respostas de uma IA podem conter erros.
+1. Conheça os componentes em [`guias/pecas-e-componentes.md`](guias/pecas-e-componentes.md).
+2. Confira a lista de compras em [`guias/kit-basico.md`](guias/kit-basico.md).
+3. Siga o [`guias/montagem-passo-a-passo.md`](guias/montagem-passo-a-passo.md) para ligar tudo com segurança.
 
 ## Contribuições
 
-Sugestões são bem-vindas por *issue*. Não inclua dados pessoais, senhas, endereços de rede ou qualquer informação sensível.
+Sugestões e correções são bem-vindas por *issue* ou *pull request*. Não inclua dados pessoais, senhas, endereços de rede ou informações sensíveis.
 
 ## Licença
 

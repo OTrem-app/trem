@@ -1,6 +1,6 @@
 # Diagnóstico de leitura
 
-> 🚧 **Placeholder** — conteúdo em preparação.
+> 🚧 **Em construção**
 
 **Objetivo:** Entender e corrigir leituras estranhas de um sensor.
 

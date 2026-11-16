@@ -1,6 +1,6 @@
 # Regra de automação
 
-> 🚧 **Placeholder** — conteúdo em preparação.
+> 🚧 **Em construção**
 
 **Objetivo:** Criar uma regra de automação a partir de uma leitura.
 

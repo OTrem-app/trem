@@ -1,6 +1,6 @@
 # Guia de montagem de sensor
 
-> 🚧 **Placeholder** — conteúdo em preparação.
+> 🚧 **Em construção**
 
 **Objetivo:** Montar e ligar um sensor a uma placa ESP32.
 
