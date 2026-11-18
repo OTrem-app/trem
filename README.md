@@ -12,20 +12,25 @@ Este repositório reúne **guias de hardware, lista de peças, passo a passo de 
 
 | Pasta | Conteúdo | Status |
 |-------|----------|--------|
-| [`guias/`](guias/) | Apresentação das peças (ESP32, sensores, atuadores), **Kit Básico** e **passo a passo de montagem** | ✅ disponível |
-| [`prompts/`](prompts/) | Prompts prontos para pedir ajuda à IA (montagem, regras, diagnóstico) | 🚧 em construção |
+| [`guias/`](guias/) | Apresentação das peças (ESP32, sensores, atuadores), **Kit Básico**, catálogo por aplicação e **passo a passo de montagem** | ✅ disponível |
+| [`prompts/`](prompts/) | Prompts prontos para pedir ajuda à IA (**Montador de Kit sob Demanda no AliExpress** disponível; novos prompts em breve) | ✅ disponível |
 
 > Este repositório **não contém código** do produto — apenas documentação aberta de hardware e prompts.
 
 ## Por onde começar
 
-1. Conheça os componentes em [`guias/pecas-e-componentes.md`](guias/pecas-e-componentes.md).
-2. Confira a lista de compras em [`guias/kit-basico.md`](guias/kit-basico.md).
+1. Conheça os componentes em [`guias/pecas-e-componentes.md`](guias/pecas-e-componentes.md) e [`guias/catalogo-pecas-e-kits.md`](guias/catalogo-pecas-e-kits.md).
+2. Quer ajuda da IA para montar sua lista de compras no AliExpress? Use o prompt [`prompts/montar-kit-sob-demanda.md`](prompts/montar-kit-sob-demanda.md) (ou confira o [`guias/kit-basico.md`](guias/kit-basico.md)).
 3. Siga o [`guias/montagem-passo-a-passo.md`](guias/montagem-passo-a-passo.md) para ligar tudo com segurança.
 
-## Contribuições
+## Contribuições e Comunidade (Apareça no `@trem.app.br`)
 
-Sugestões e correções são bem-vindas por *issue* ou *pull request*. Não inclua dados pessoais, senhas, endereços de rede ou informações sensíveis.
+Montou uma automação com a TREM? **Filme sua montagem e o seu sistema funcionando!**
+
+- **Como ter seu projeto repostado no Instagram oficial ([@trem.app.br](https://www.instagram.com/trem.app.br)):**
+  1. Filme a montagem e a automação funcionando na prática.
+  2. Abra um **Pull Request (PR)** neste repositório publicando o **prompt** ou o **passo a passo** do que você montou (em `guias/` ou `prompts/`).
+  3. Após a revisão e validação técnica da comunidade/equipe (garantindo segurança elétrica e que não há dados pessoais, senhas ou endereços de rede), seu PR é aprovado e **repostamos o seu vídeo no perfil oficial da TREM!**
 
 ## Licença
 

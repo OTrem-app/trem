@@ -6,6 +6,7 @@ Documentação aberta para entender os componentes compatíveis com a TREM e mon
 |------|-----------|
 | [`pecas-e-componentes.md`](pecas-e-componentes.md) | O que é e para que serve cada peça (ESP32, Shield 38P, sensores e atuadores) |
 | [`kit-basico.md`](kit-basico.md) | Lista fechada de peças para montar o **Kit Básico** |
+| [`catalogo-pecas-e-kits.md`](catalogo-pecas-e-kits.md) | Catálogo completo de sensores, atuadores e kits por aplicação (Casa, Estufa, Comércio, Agro) |
 | [`montagem-passo-a-passo.md`](montagem-passo-a-passo.md) | Mapa de pinos e passo a passo ilustrado em texto para montar sem queimar nada |
 
 > ⚠️ **Aviso de segurança:** sempre confira as tensões (`3V3` vs `5V`) e faça todas as ligações com a placa **desligada da tomada e do USB**.
